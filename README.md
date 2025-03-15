@@ -1,5 +1,5 @@
 # Full Stack Developer Roadmap 2025 
-### by Kushal Vijay
+### by Prithviraj
 
 ## (FrontEnd + BackEnd + DataBases + DevOps + Advanced topics)
 
