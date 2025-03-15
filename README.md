@@ -126,7 +126,7 @@
   - [REST](https://youtu.be/WXsD0ZgxjRw?si=eeJUl8-mFa6Ik1ts)
   - [GraphQL Official Website](https://graphql.org/learn/)
 
-> ### ( 🔍Search this text on YouTube to find the tutorial, Will update the links if the Repo gets 500 STARS⭐)
+> ### ( 🔍Search this text on YouTube to find the tutorial, Will update the links if the Repo gets 50 STARS⭐)
 ### Full Stack Project with YouTube Tutorials 
 > Build and Deploy a Fullstack App with Admin Dashboard | Nextjs, PostgreSQL, Redis, Authjs by JavaScript Mastery Youtube Channel
 
