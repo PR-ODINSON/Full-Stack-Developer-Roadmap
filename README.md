@@ -3,14 +3,6 @@
 
 ## (FrontEnd + BackEnd + DataBases + DevOps + Advanced topics)
 
->  **Connect with a Community of over 500,000 Coders**
-> <br>
-[![GitHub KushalVijay](https://img.shields.io/github/followers/KushalVijay?label=follow&style=social)](https://github.com/KushalVijay) 
-![](https://img.shields.io/youtube/channel/subscribers/UCOZMPD9TMk0C4yipWBaPZ7w?label=Subscribe%20to%20our%20Channel%20&style=social)
-[![Linkedin: Kushal Vijay](https://img.shields.io/badge/-Kushal%20Vijay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kushalvijay/)](https://www.linkedin.com/in/kushalvijay/)
-
-![_- visual selection (2)](https://github.com/user-attachments/assets/522ef6bb-b847-4239-a063-4e7a2b08a92b)
-
 # Full Stack Developer Roadmap 2025
 
 ## 1. Fundamentals
